@@ -4,3 +4,4 @@ matplotlib
 numpy
 streamlit
 python-dateutil
+xlsxwriter
